@@ -4,10 +4,10 @@
 For this project, The results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users. My goal was to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 # What Software Do I Need?
-To complete this project, i'll require the following softwares:
+To complete this project, require the following softwares:
 
-Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)
-Jupyter Notebook
+1.Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)
+2.Jupyter Notebook
 
 # Part I - Probability
 Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.
